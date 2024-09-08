@@ -1,0 +1,6 @@
+﻿services:
+  devfreela.payments.api:
+    image: devfreela.payments.api
+    build:
+      context: .
+      dockerfile: DevFreela.Payments.API/Dockerfile
