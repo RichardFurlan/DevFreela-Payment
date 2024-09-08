@@ -1,1 +1,77 @@
 /DevFreela.Payments.API/Consumers/ProcessPaymentConsumer.cs
+# Ignore Rider IDE settings and files
+.idea/
+*.sln.iml
+
+# Ignore build output directories
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider-specific files
+.idea/
+.idea_modules/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/dictionaries
+.idea/libraries
+.idea/.idea
+.idea/assetWizard.xml
+.idea/caches/
+.idea/modules.xml
+.idea/vcs.xml
+.idea/shelf/
+.idea/compiler.xml
+.idea/jsLibraryMappings.xml
+
+# Ignore Rider logs and caches
+.idea/workspace.xml
+.idea/workspace/
+.idea/tasks.xml
+.idea/.gitignore
+
+# Rider auto-generated folders
+.idea/runConfigurations/
+.idea/debugger/
+
+# Ignore compiled dlls
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+# Ignore logs
+*.log
+
+# Ignore by default generated files by Visual Studio
+.vscode/
+.vs/
+project.lock.json
+project.fragment.lock.json
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore other build files
+*.obj
+*.o
+*.out
+*.exe
+*.log
+*.pyc
+*.pyo
+*.coverage
